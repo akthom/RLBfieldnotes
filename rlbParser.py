@@ -1,9 +1,10 @@
 #python 3.4
-#modding from pettigrew parser to start
+#modding from pettigrewParser
 
 # from nltk.tag import StanfordNERTagger
 # from nltk.tokenize import word_tokenize
 import nltk, re, pprint, csv
+import 
 
 infile='bad.txt'
 
